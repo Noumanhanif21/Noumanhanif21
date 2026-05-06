@@ -1,122 +1,115 @@
-<!-- Header -->
+<!-- ======================= HEADER ======================= -->
+
 <div align="left">
 
-<br>
+### hey, I'm
 
-hey there, I'm
 # Nouman Hanif
 
-![Flutter Developer](https://img.shields.io/badge/●%20Flutter%20Developer-0d1117?style=for-the-badge&logoColor=white)
+![Flutter Developer](https://img.shields.io/badge/Flutter%20Developer-0d1117?style=for-the-badge&logoColor=white)
 &nbsp;
-![Building cross-platform apps](https://img.shields.io/badge/building%20cross--platform%20apps-0d1117?style=for-the-badge&logoColor=58a6ff&labelColor=0d1117)
+![Cross-platform Apps](https://img.shields.io/badge/Cross--Platform%20Apps-0d1117?style=for-the-badge&logoColor=58a6ff)
 
-<br>
+<br><br>
 
-*I craft cross-platform mobile experiences that feel native, perform fast, and look great.*
-*Specializing in **Flutter & Dart** with deep expertise in **Firebase**, REST APIs, and CI/CD pipelines.*
-*From real estate marketplaces to B2B platforms — I ship production-ready apps.*
-
-<br>
+**Building fast, scalable, and polished mobile apps.**  
+Focused on **Flutter & Dart**, with production experience in **Firebase, APIs, and CI/CD**.
 
 </div>
 
 ---
 
-## 🛠 Tech & Tools
+<!-- ======================= ABOUT ======================= -->
+
+## ✦ About
+
+- Crafting **native-like cross-platform experiences**
+- Strong focus on **performance, clean UI, and scalability**
+- Experience across **marketplaces, B2B systems, and real-world apps**
+
+---
+
+<!-- ======================= TECH ======================= -->
+
+## ✦ Tech Stack
 
 <div align="left">
 
-**Mobile & Languages**
-
+**Mobile**
+<br>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-**Backend & Database**
+<br><br>
 
+**Backend**
+<br>
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
-![3rd Party SDKs](https://img.shields.io/badge/3rd%20Party%20SDKs-6e40c9?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
-**Dev Tools & Workflow**
+<br><br>
 
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/Git-181717?style=flat-square&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Play Console](https://img.shields.io/badge/Play%20Console-414141?style=flat-square&logo=google-play&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic%20CI%2FCD-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square)
 
-**Design & No-Code**
+<br><br>
 
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Figma to Flutter](https://img.shields.io/badge/Figma%20to%20Flutter-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-96BF48?style=flat-square&logo=shopify&logoColor=white)
-
-**AI & Data**
-
-![Python](https://img.shields.io/badge/Python%20·%20ML-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+**Design / No-Code**
+<br>
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ======================= PROJECTS ======================= -->
+
+## ✦ Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Estate
-**Smart Real Estate Marketplace** &nbsp; `Jun 2024 – Sep 2024`
+### 🏠 Estate  
+`Real Estate Marketplace`
 
-Cross-platform marketplace for buying, selling & renting properties — advanced filters, personalized search, favorites management, and tiered subscription plans for premium listings.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logoColor=white)
-![Subscriptions](https://img.shields.io/badge/Subscriptions-6e40c9?style=flat-square&logoColor=white)
+Clean, scalable marketplace for buying, selling, and renting properties with advanced filtering, favorites, and premium listings.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎾 Vantage Tennis
-**Tennis Coaching & Video Analysis** &nbsp; `Oct 2024 – Jan 2025`
+### 🎾 Vantage Tennis  
+`Coaching Platform`
 
-Sports training app with video streaming, real-time coach–player chat, gameplay video upload & analysis, and personalized coach feedback via Gold/Platinum subscription tiers.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Video Streaming](https://img.shields.io/badge/Video%20Streaming-1a7f7a?style=flat-square&logoColor=white)
-![Real-time Chat](https://img.shields.io/badge/Real--time%20Chat-2ea043?style=flat-square&logoColor=white)
-![Gold/Platinum](https://img.shields.io/badge/Gold%20%2F%20Platinum-9e6a03?style=flat-square&logoColor=white)
+Video-based training system with real-time chat, gameplay analysis, and structured coach feedback.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Brikol
-**On-Demand Service Marketplace** &nbsp; `Feb 2025 – Jun 2025`
+### 🔧 Brikol  
+`Service Marketplace`
 
-Connects customers with service providers — task posting, provider bidding system, real-time tracking, comprehensive order management, and provider wallet with performance analytics.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Real-time](https://img.shields.io/badge/Real--time-2ea043?style=flat-square&logoColor=white)
-![Marketplace](https://img.shields.io/badge/Marketplace-9e6a03?style=flat-square&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-1a7f7a?style=flat-square&logoColor=white)
+On-demand platform with bidding system, real-time tracking, order management, and wallet analytics.
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🛒 Shaudan
-**B2B eCommerce Marketplace** &nbsp; `Sep 2022 – Sep 2023`
+### 🛒 Shaudan  
+`B2B eCommerce`
 
-B2B platform connecting wholesalers and retailers for streamlined transactions — built with Flutter in collaboration with Shaudan Pvt. Ltd., featuring product management, responsive UI, and scalable architecture.
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![B2B](https://img.shields.io/badge/B2B-9e6a03?style=flat-square&logoColor=white)
-![eCommerce](https://img.shields.io/badge/eCommerce-da3633?style=flat-square&logoColor=white)
-![Shaudan Pvt.](https://img.shields.io/badge/Shaudan%20Pvt.-484f58?style=flat-square&logoColor=white)
+Robust B2B system connecting wholesalers and retailers with scalable architecture and clean UX.
 
 </td>
 </tr>
@@ -124,43 +117,61 @@ B2B platform connecting wholesalers and retailers for streamlined transactions �
 
 ---
 
-## 📍 Currently
+<!-- ======================= CURRENT ======================= -->
+
+## ✦ Current Focus
 
 ```dart
 final nouman = {
-  "shipping"  : "Production Flutter apps for real users",
-  "learning"  : "Riverpod & Bloc for scalable state management",
-  "exploring" : "ML-powered features with Python & Google Colab",
-  "open_to"   : "Freelance projects & interesting collaborations",
+  "building"  : "Production Flutter apps",
+  "learning"  : "Riverpod & scalable architecture",
+  "exploring" : "ML integrations",
+  "open_to"   : "Freelance & collaborations",
 };
-```
 
----
+<!-- ======================= CONNECT ======================= -->
 
-## 🤝 Connect
+## ✦ Connect
 
-<div align="center">
+<div align="left">
+
+<table>
+<tr>
+<td>
+
+**📩 Email**  
+nouman.devv@gmail.com  
+
+</td>
+<td>
+
+**💼 LinkedIn**  
+[linkedin.com/in/nouman-hanif-wa2821](https://www.linkedin.com/in/nouman-hanif-wa2821)
+
+</td>
+<td>
+
+**📸 Instagram**  
+[@hello__nouman](https://www.instagram.com/hello__nouman/)
+
+</td>
+</tr>
+</table>
 
 <br>
 
+<!-- subtle action buttons -->
+
 <a href="mailto:nouman.devv@gmail.com">
-  <img src="https://img.shields.io/badge/nouman.devv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/nouman-hanif-wa2821">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/hello__nouman/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Follow-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<br><br>
-
-</div>
-
----
-
-<div align="center">
-  <sub>built with Flutter ♥ and way too much chai ☕</sub>
 </div>

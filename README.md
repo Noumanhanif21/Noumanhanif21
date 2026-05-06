@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/noumanhanif">
+<a href="https://github.com/Noumanhanif21">
   <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

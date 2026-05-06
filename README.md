@@ -2,41 +2,39 @@
 
 <div align="left">
 
-### hey, I'm
+# Nouman Hanif • Flutter Developer
 
-# Nouman Hanif
-
-![Flutter Developer](https://img.shields.io/badge/Flutter%20Developer-0d1117?style=for-the-badge&logo=flutter&logoColor=white)
-&nbsp;
-![Mobile App Engineer](https://img.shields.io/badge/Mobile%20App%20Engineer-0d1117?style=for-the-badge&logo=flutter&logoColor=58a6ff)
-
-<br>
-
-**Flutter Developer | Mobile App Engineer**
-
-I am a **Mobile Application Developer with 2+ years of experience**, specializing in building **high-performance, scalable, and production-ready Flutter apps**.
-
-I have delivered **10+ real-world mobile applications**, helping businesses turn ideas into **fully functional digital products**.
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=white)
+![Mobile Apps](https://img.shields.io/badge/Mobile%20Apps-0d1117?style=for-the-badge&logo=android&logoColor=58a6ff)
+![2+ Years Experience](https://img.shields.io/badge/2%2B%20Years%20Experience-0d1117?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-## ✦ What I Do
+## ✦ About
 
-- Build **modern Flutter mobile applications**
-- Design **clean, responsive, user-friendly UI**
-- Develop **scalable backend-integrated apps (Firebase & APIs)**
-- Turn ideas into **real-world production apps**
+👨‍💻 Flutter Developer with **2+ years of experience**  
+🚀 Built **10+ production mobile applications**  
+🎯 Specializing in **scalable architecture, clean UI & performance-driven apps**
+
+---
+
+## ✦ What I Build
+
+📱 Mobile Applications (Flutter)  
+⚡ High-performance production apps  
+🔗 API-integrated & Firebase-powered systems  
+🧠 Scalable architectures for real businesses  
 
 ---
 
 ## ✦ Projects
 
-🏠 Estate  
-🎾 Vantage Tennis  
-🔧 Brikol  
-🛒 Shaudan  
+🏠 **Estate** → Real estate marketplace app with modern UX  
+🎾 **Vantage Tennis** → Coaching & training platform with video-based learning  
+🔧 **Brikol** → On-demand service marketplace with bidding system  
+🛒 **Shaudan** → B2B eCommerce platform for wholesale trade  
 
 ---
 
@@ -44,25 +42,21 @@ I have delivered **10+ real-world mobile applications**, helping businesses turn
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,git,github,androidstudio,figma,shopify,apple&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,mysql,git,github,androidstudio,figma&theme=dark" />
 
 </div>
 
 ---
 
-## ✦ Let’s Build Something Amazing
+## ✦ Let’s Build Your Idea 🚀
 
-If you have an idea — I can turn it into a **real, scalable, and beautiful mobile application**.
+💡 Have an app idea? I turn ideas into **real, scalable, production-ready mobile applications**
 
-I love working on:
-- Startup ideas 🚀  
-- SaaS products 💡  
-- Marketplaces 🛍️  
-- Custom business apps 📱  
+🧩 Whether it's a startup, SaaS, or marketplace — I can build it from **zero to launch**
 
 ---
 
-## ✦ Contact Me
+## ✦ Contact
 
 <div align="left">
 

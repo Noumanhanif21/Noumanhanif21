@@ -1,12 +1,9 @@
 <!-- Header -->
-<div align="center">
+<div align="left">
 
 <br>
 
-```
 hey there, I'm
-```
-
 # Nouman Hanif
 
 ![Flutter Developer](https://img.shields.io/badge/●%20Flutter%20Developer-0d1117?style=for-the-badge&logoColor=white)

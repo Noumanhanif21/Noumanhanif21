@@ -24,7 +24,7 @@ hey there, I'm
 
 ## 🛠 Tech & Tools
 
-<div align="center">
+<div align="left">
 
 **Mobile & Languages**
 

@@ -1,65 +1,45 @@
-<!-- Header -->
-
 <div align="left">
-
-<h3>hey, I'm</h3>
 
 # Nouman Hanif
 ### Flutter Developer
 
-<p>
-Building clean, scalable, and high-performance mobile apps with Flutter.
-Focused on elegant UI, smooth UX, and production-grade architecture.
-</p>
+<sub>Building minimal, scalable mobile experiences.</sub>
 
 <br>
 
-<img src="https://img.shields.io/badge/Flutter_Developer-111827?style=for-the-badge&logo=flutter&logoColor=5ED3F3&labelColor=111827" />
-<img src="https://img.shields.io/badge/Cross_Platform-111827?style=for-the-badge&logo=android&logoColor=white&labelColor=111827" />
-
-</div>
-
----
-
-## ◇ About Me
-
-```txt
-▢ Mobile app development with Flutter & Dart
-▢ Firebase, REST APIs, SQL integrations
-▢ Clean architecture & scalable codebases
-▢ Performance-focused applications
-```
-
----
-
-## ◇ Tech Stack
-
 <table>
 <tr>
-<td valign="top">
+<td>
 
-### Mobile
-- Flutter  
-- Dart  
-- iOS  
+### Profile
+
+Flutter developer focused on building  
+high-performance mobile applications  
+with clean architecture and thoughtful UX.
+
+Specialized in:
+
+- Cross-platform app development  
+- Firebase & REST integrations  
+- Scalable state management  
+- Production-ready deployment
 
 </td>
+<td>
 
-<td valign="top">
+### Core Stack
 
-### Backend
-- Firebase  
-- REST APIs  
-- SQL  
+**Mobile**  
+Flutter · Dart
 
-</td>
+**Backend**  
+Firebase · SQL · REST APIs
 
-<td valign="top">
+**Workflow**  
+Git · CI/CD · Play Console
 
-### Tools
-- Git  
-- Android Studio  
-- CI/CD  
+**Design**  
+Figma → Flutter
 
 </td>
 </tr>
@@ -67,53 +47,53 @@ Focused on elegant UI, smooth UX, and production-grade architecture.
 
 ---
 
-## ◇ Featured Projects
+## ◇ Selected Work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Estate
-Real estate marketplace platform  
+### Estate  
+Real estate marketplace
 
-`Flutter` `Firebase` `Subscriptions`
-
-Smart filtering, favorites, property listing management.
+Smart search  
+Advanced filtering  
+Subscription-based listings
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### Vantage Tennis
-Sports coaching platform  
+### Vantage Tennis  
+Coaching platform
 
-`Video Analysis` `Streaming` `Chat`
-
-Player performance insights and coaching tools.
+Video analysis  
+Live feedback  
+Player performance insights
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### Brikol
-On-demand service marketplace  
+### Brikol  
+Service marketplace
 
-`Marketplace` `Wallet` `Analytics`
-
-Bidding system, task management, order flow.
+Task bidding  
+Real-time orders  
+Wallet system
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%">
 
-### Shaudan
-B2B eCommerce platform  
+### Shaudan  
+B2B commerce
 
-`eCommerce` `Scalable Architecture`
-
-Wholesaler-retailer marketplace solution.
+Wholesale platform  
+Product systems  
+Scalable architecture
 
 </td>
 </tr>
@@ -124,23 +104,8 @@ Wholesaler-retailer marketplace solution.
 ## ◇ Current Focus
 
 ```dart
-final currentFocus = {
+final now = {
   "building": "production Flutter apps",
   "learning": "Riverpod & Bloc",
-  "exploring": "AI integrations in mobile",
+  "exploring": "AI-powered mobile features"
 };
-```
-
----
-
-## ◇ Connect
-
-**Email**  
-nouman.devv@gmail.com  
-
-**LinkedIn**  
-linkedin.com/in/nouman-hanif-wa2821
-
----
-
-<sub>designed with simplicity, depth, and too much chai ☕</sub>

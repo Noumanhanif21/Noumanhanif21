@@ -14,25 +14,33 @@
 
 **Flutter Developer | Mobile App Engineer**
 
-I am a **Mobile Application Developer with 2+ years of experience**, specializing in building **high-performance, scalable, and production-ready Flutter applications**.  
-I have successfully developed **10+ real-world projects**, including marketplaces, service apps, and business systems.
+I am a **Mobile Application Developer with 2+ years of experience**, specializing in building **high-performance, scalable, and production-ready Flutter apps**.
 
-Focused on crafting **clean UI, smooth UX, and robust architecture** using modern mobile development practices.
+I have delivered **10+ real-world mobile applications**, helping businesses turn ideas into **fully functional digital products**.
 
 </div>
 
 ---
 
-## ✦ About
+## ✦ What I Do
 
-- Building **high-performance cross-platform applications**
-- Focused on **clean UI, scalability, and user experience**
-- Experience in **marketplaces, B2B platforms, and production-grade apps**
-- Proven track record of **10+ completed Flutter projects**
+- Build **modern Flutter mobile applications**
+- Design **clean, responsive, user-friendly UI**
+- Develop **scalable backend-integrated apps (Firebase & APIs)**
+- Turn ideas into **real-world production apps**
 
 ---
 
-## ✦ Tools & Languages
+## ✦ Projects
+
+🏠 Estate  
+🎾 Vantage Tennis  
+🔧 Brikol  
+🛒 Shaudan  
+
+---
+
+## ✦ Tech Stack
 
 <div align="left">
 
@@ -42,43 +50,19 @@ Focused on crafting **clean UI, smooth UX, and robust architecture** using moder
 
 ---
 
-## ✦ Selected Work
+## ✦ Let’s Build Something Amazing
 
-### 🏠 Estate  
-*Real Estate Marketplace*  
-A modern property platform for buying, selling, and renting with advanced filtering, wishlist system, and smooth UX.
+If you have an idea — I can turn it into a **real, scalable, and beautiful mobile application**.
 
----
-
-### 🎾 Vantage Tennis  
-*Coaching Platform*  
-A structured training application featuring video sessions, real-time chat, and coaching feedback system.
+I love working on:
+- Startup ideas 🚀  
+- SaaS products 💡  
+- Marketplaces 🛍️  
+- Custom business apps 📱  
 
 ---
 
-### 🔧 Brikol  
-*Service Marketplace*  
-An on-demand service platform with bidding system, order flow management, and provider-client interaction system.
-
----
-
-### 🛒 Shaudan  
-*B2B eCommerce System*  
-A scalable wholesale marketplace connecting suppliers and retailers with optimized UX and performance-driven architecture.
-
----
-
-## ✦ Current Focus
-
-I am currently focused on building **production-grade Flutter applications** with scalable and maintainable architecture.
-
-Actively improving my expertise in **Riverpod, Clean Architecture, and advanced state management patterns**, while exploring **AI integrations in mobile applications**.
-
-Open to **freelance opportunities, collaborations, and impactful product-based work**.
-
----
-
-## ✦ Contact
+## ✦ Contact Me
 
 <div align="left">
 
@@ -86,7 +70,7 @@ Open to **freelance opportunities, collaborations, and impactful product-based w
   <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="www.linkedin.com/in/nouman-hanif-wa2821">
+<a href="https://www.linkedin.com/in/nouman-hanif-wa2821">
   <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
